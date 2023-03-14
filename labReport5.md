@@ -22,10 +22,16 @@ Which is **grep -c**, **grep -r**, **grep -o**, **grep -n**
 
 * **grep -c** is use to count print only a count of matching lines per file
 
+when I work on grep -c, I open up some of the text files from berlitz1, to find a wrod which is appear some of the times in the textfiles. Then I found out "hotels", in HandRHawaii.txt, hotels appears 3 times.
+
 * **grep -r** is use to recurse
+
+I think it is a interesting command option, since I remeber that I use that on skill demos1. And this command option will recursive through the directories.
 
 * **grep -o** is use to matching show only the part of a line matching PATTERN
 
+When I try that, I discover that it is similar to grep -c, but the grep -c is only print out numbers, but grep -o will print out lines matching Pattern, which is interesting.
+
 * **grep -n** is use to print line number with output lines.
 
-Even that grep and find are similar, we need to use different command line in different situation.
+I think this is the most useful command line I learn from this lab report. Since we can only type out a word, and the textfile, we can easy to find out which line of the files contains the word we want.
