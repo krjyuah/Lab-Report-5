@@ -11,19 +11,20 @@ Since we learned about find, less and grep in week 4. Which we know that find an
 **grep** takes a string and a file, and prints out all the lines in that file that match the string.
 
 For find, **find -name** and **find -type** are those good choice to do a web search.
-**find -name** is a specifies search based on the filename or pattern that follows.
 
-**find -type** is a specifies search based on the type of the file or directory that follows. 
+* **find -name** is a specifies search based on the filename or pattern that follows.
+
+* **find -type** is a specifies search based on the type of the file or directory that follows. 
 
 I remember that I search online to found 4 interesting command-line options from grep in lab report 3.
 Which is **grep -c**, **grep -r**, **grep -o**, **grep -n**
 
-**grep -c** is use to count print only a count of matching lines per file
+* **grep -c** is use to count print only a count of matching lines per file
 
-**grep -r** is use to recurse
+* **grep -r** is use to recurse
 
-**grep -o** is use to matching show only the part of a line matching PATTERN
+* **grep -o** is use to matching show only the part of a line matching PATTERN
 
-**grep -n** is use to print line number with output lines.
+* **grep -n** is use to print line number with output lines.
 
 Even that grep and find are similar, we need to use different command line in different situation.
