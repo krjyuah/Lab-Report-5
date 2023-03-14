@@ -4,7 +4,8 @@ I will pick my favorite lab report which is the lab report 3.
 I think lab report 3 are contains so many important stuff, and I do learn a lot from that lab report. 
 In lab report 3, we need to consider the commands **less**, **find**, and **grep**. 
 
-Since we learned about find, less and grep in week 4. Which we know that find and grep are similar, but still different.
+First I focus on **find** and **grep**, then I need to compare the difference between **find** and **grep**
+Since we learned about find, less and grep in week 4. Which I know that find and grep are similar, but still different.
 
 **find** includes all of the directory names as well as the file names.
 
